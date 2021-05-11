@@ -1,0 +1,51 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	df="df -h" \
+	free="free -m" \
+	rm="rm -vI" \
+	mkd="mkdir -pv" \
+	yt="youtube-dl --add-metadata -i" \
+	yta="yt -x -f bestaudio/best" \
+	ytv="youtube-dl -i -f best"\
+	ffmpeg="ffmpeg -hide_banner"
+
+# Colorize commands when possible.
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	ll="ls -lahN --color=auto --group-directories-first" \
+	la="ls -a --color=always --group-directories-first" \
+	ll="ls -l --color=always --group-directories-first" \
+	lt="ls -aT --color=always --group-directories-first" \
+	l.="ls -a | egrep "^\."" \
+	grep="grep --color=auto" \
+	egrep="egrep --color=auto" \
+	fgrep="fgrep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi"
+
+#My fzf searches
+ce() { du -a ~/.config/* | awk '{print $2}' | fzf | xargs -r $EDITOR ;}
+
+# These common commands are just too long! Abbreviate them.
+alias \
+	ka="killall" \
+	g="git" \
+	trem="transmission-gtk" \
+	YT="youtube-viewer" \
+	sdn="sudo shutdown -h now" \
+	f="$FILE" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	p="sudo pacman" \
+	z="zathura" \
+	vi="nvim" \
+	nf="neofetch" \
+	smci="sudo make clean install"  \
+    config="/usr/bin/git  --git-dir=$HOME/.voidrice/ --work-tree=$HOME"
