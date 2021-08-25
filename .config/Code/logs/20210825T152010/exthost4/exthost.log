@@ -1,0 +1,78 @@
+[2021-08-25 15:50:56.174] [exthost] [info] extension host started
+[2021-08-25 15:50:56.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-08-25 15:50:56.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-08-25 15:50:56.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-25 15:50:56.262] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-25 15:50:56.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-25 15:50:56.264] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-08-25 15:50:56.283] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":true,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-08-25 15:50:56.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/github.copilot-1.3.2467/dist/extension
+[2021-08-25 15:50:56.327] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-08-25 15:50:56.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/github.vscode-pull-request-github-0.29.2/dist/extension
+[2021-08-25 15:50:56.355] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare-audio","_lower":"ms-vsliveshare.vsliveshare-audio"},"activationEvent":"*"}
+[2021-08-25 15:50:56.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4761/out/prod/extension-prod
+[2021-08-25 15:50:57.178] [exthost] [info] ExtensionService#_doActivateExtension mtxr.sqltools {"startup":true,"extensionId":{"value":"mtxr.sqltools-driver-sqlite","_lower":"mtxr.sqltools-driver-sqlite"},"activationEvent":"*"}
+[2021-08-25 15:50:57.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/mtxr.sqltools-0.23.0/dist/extension.js
+[2021-08-25 15:50:57.200] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-08-25 15:50:57.200] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/vscodevim.vim-1.21.6/out/extension
+[2021-08-25 15:50:57.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-08-25 15:50:57.427] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-08-25 15:50:57.519] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-25 15:50:57.519] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-25 15:50:57.677] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-25 15:50:57.677] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-08-25 15:50:57.681] [exthost] [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-sqlite {"startup":false,"extensionId":{"value":"mtxr.sqltools-driver-sqlite","_lower":"mtxr.sqltools-driver-sqlite"},"activationEvent":"*"}
+[2021-08-25 15:50:57.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/mtxr.sqltools-driver-sqlite-0.2.0/out/extension.js
+[2021-08-25 15:50:59.606] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare-audio {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare-audio","_lower":"ms-vsliveshare.vsliveshare-audio"},"activationEvent":"*"}
+[2021-08-25 15:50:59.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/ms-vsliveshare.vsliveshare-audio-0.1.91/out/extension
+[2021-08-25 15:51:00.137] [exthost] [info] eager extensions activated
+[2021-08-25 15:51:00.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:51:00.141] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-25 15:51:00.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:51:00.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-25 15:51:00.148] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:51:00.148] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-25 15:51:00.214] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:51:00.214] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.1/dist/extension/extension
+[2021-08-25 15:51:00.277] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl","_lower":"ms-vscode-remote.remote-wsl"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:51:00.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/ms-vscode-remote.remote-wsl-0.58.2/dist/extension
+[2021-08-25 15:51:00.296] [exthost] [info] ExtensionService#_doActivateExtension theumletteam.umlet {"startup":false,"extensionId":{"value":"theumletteam.umlet","_lower":"theumletteam.umlet"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:51:00.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/theumletteam.umlet-1.0.4/target/dist/extension.js
+[2021-08-25 15:51:15.953] [exthost] [error] Error: Request connection/TestConnectionRequest failed with message: Cannot convert undefined or null to object
+    at /home/aditya/.vscode/extensions/mtxr.sqltools-0.23.0/dist/extension.js:16:111820
+    at /home/aditya/.vscode/extensions/mtxr.sqltools-0.23.0/dist/extension.js:16:112227
+    at Immediate.<anonymous> (/home/aditya/.vscode/extensions/mtxr.sqltools-0.23.0/dist/extension.js:16:112769)
+    at processImmediate (internal/timers.js:461:21) sqltools.testConnection
+[2021-08-25 15:53:03.910] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-25 15:53:05.440] [exthost] [error] Error: ENOENT: no such file or directory, unlink '/home/aditya/.local/share/vsliveshare/cascade.json'
+[2021-08-25 15:53:05.731] [exthost] [info] extension host started
+[2021-08-25 15:53:05.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-08-25 15:53:05.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-08-25 15:53:05.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-25 15:53:05.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-25 15:53:05.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-25 15:53:05.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-08-25 15:53:05.828] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot {"startup":true,"extensionId":{"value":"GitHub.copilot","_lower":"github.copilot"},"activationEvent":"*"}
+[2021-08-25 15:53:05.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/github.copilot-1.3.2467/dist/extension
+[2021-08-25 15:53:05.882] [exthost] [info] ExtensionService#_doActivateExtension mtxr.sqltools {"startup":true,"extensionId":{"value":"mtxr.sqltools","_lower":"mtxr.sqltools"},"activationEvent":"*"}
+[2021-08-25 15:53:05.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/mtxr.sqltools-0.23.0/dist/extension.js
+[2021-08-25 15:53:05.915] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-08-25 15:53:05.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/vscodevim.vim-1.21.6/out/extension
+[2021-08-25 15:53:06.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-08-25 15:53:06.121] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-08-25 15:53:06.232] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-25 15:53:06.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-25 15:53:06.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-25 15:53:06.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-08-25 15:53:07.158] [exthost] [info] eager extensions activated
+[2021-08-25 15:53:07.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:53:07.179] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-25 15:53:07.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:53:07.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-25 15:53:07.191] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:53:07.191] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-25 15:53:07.265] [exthost] [info] ExtensionService#_doActivateExtension theumletteam.umlet {"startup":false,"extensionId":{"value":"theumletteam.umlet","_lower":"theumletteam.umlet"},"activationEvent":"onStartupFinished"}
+[2021-08-25 15:53:07.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aditya/.vscode/extensions/theumletteam.umlet-1.0.4/target/dist/extension.js
+[2021-08-25 15:53:08.936] [exthost] [info] exiting with code 0
+[2021-08-25 15:53:25.346] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-25 15:53:26.364] [exthost] [info] exiting with code 0

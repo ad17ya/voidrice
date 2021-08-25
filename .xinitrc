@@ -23,8 +23,6 @@ if [ -f "$usermodmap" ]; then
     xmodmap "$usermodmap"
 fi
 
-# start some nice programs
-
 if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  for f in /etc/X11/xinit/xinitrc.d/?*.sh ; do
   [ -x "$f" ] && . "$f"
@@ -32,12 +30,13 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-dualmon &
-setbg &
-remaps &
-slstatus &
-xcompmgr &
-dunst &
-mpd &
+# start some nice programs
 lxsession &
+dwmblocks &
+xcompmgr &
+mpd &
+dunst &
+remaps &
+setbg &
+
 ssh-agent dwm

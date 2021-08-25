@@ -22,8 +22,6 @@ alias \
 	ll="ls -lahN --color=auto --group-directories-first" \
 	la="ls -a --color=always --group-directories-first" \
 	ll="ls -l --color=always --group-directories-first" \
-	lt="ls -aT --color=always --group-directories-first" \
-	l.="ls -a | egrep "^\."" \
 	grep="grep --color=auto" \
 	egrep="egrep --color=auto" \
 	fgrep="fgrep --color=auto" \
@@ -31,7 +29,7 @@ alias \
 	ccat="highlight --out-format=ansi"
 
 #My fzf searches
-ce() { du -a ~/.config/* | awk '{print $2}' | fzf | xargs -r $EDITOR ;}
+ce() { du -a ~/.config/* ~/.local/bin ~/.local/src | awk '{print $2}' | fzf | xargs -r $EDITOR ;}
 
 # These common commands are just too long! Abbreviate them.
 alias \

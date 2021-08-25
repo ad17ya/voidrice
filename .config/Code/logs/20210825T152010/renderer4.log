@@ -1,0 +1,2 @@
+[2021-08-25 15:52:42.318] [renderer4] [error] Cannot uninstall 'SQLTools' extension. 'SQLTools SQLite' extension depends on this.: unknown: Cannot uninstall 'SQLTools' extension. 'SQLTools SQLite' extension depends on this.
+    at T.unininstallExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:48:13168)

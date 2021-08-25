@@ -23,6 +23,10 @@ if [ -d "$HOME/.local/bin" ] ;
   then PATH="$HOME/.local/bin:$PATH"
 fi
 
+if [ -d "$HOME/.local/bin/statusbar" ] ;
+  then PATH="$HOME/.local/bin/statusbar:$PATH"
+fi
+
 #Change title of terminals
 case ${TERM} in
   xterm*|rxvt*|Eterm*|aterm|kterm|gnome*|alacritty|st|konsole*)

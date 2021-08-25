@@ -1,0 +1,149 @@
+[2021-08-25 15:20:21.905] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-25 15:20:21.906] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210823T163740, 20210823T165421'
+[2021-08-25 15:20:41.909] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-25 15:20:41.910] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-25 15:20:51.907] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-25 15:21:08.689] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2021-08-25 15:21:21.628] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2021-08-25 15:21:21.628] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-08-25 15:21:21.628] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-08-25 15:21:21.629] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2021-08-25 15:21:21.629] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2021-08-25 15:21:21.629] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-08-25 15:21:21.629] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2021-08-25 15:21:21.629] [sharedprocess] [info] Installing extension: twxs.cmake
+[2021-08-25 15:21:21.629] [sharedprocess] [info] Extension is already requested to install twxs.cmake
+[2021-08-25 15:21:21.630] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare-audio
+[2021-08-25 15:21:21.630] [sharedprocess] [info] Installing extension: cschlosser.doxdocgen
+[2021-08-25 15:21:21.630] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2021-08-25 15:21:21.630] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2021-08-25 15:21:24.397] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.7.3
+[2021-08-25 15:21:24.505] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.58.2
+[2021-08-25 15:21:24.566] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.807e67a3-8f9a-4a35-9e19-cfd6cfbbd9e3: ms-vscode-remote.remote-wsl
+[2021-08-25 15:21:24.572] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.cece5a6c-6d1b-4d08-b2f1-56ab033f4054: ms-vscode.cmake-tools
+[2021-08-25 15:21:24.577] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vscode-remote.remote-wsl-0.58.2
+[2021-08-25 15:21:24.579] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2021-08-25 15:21:24.584] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vscode.cmake-tools-1.7.3
+[2021-08-25 15:21:24.585] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2021-08-25 15:21:24.681] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2021-08-25 15:21:24.700] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.f7e748d3-0f35-4f22-8fa2-8311fac4a9b0: ms-vscode.cpptools-themes
+[2021-08-25 15:21:24.708] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0
+[2021-08-25 15:21:24.709] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2021-08-25 15:21:25.325] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-edit-0.65.7
+[2021-08-25 15:21:25.364] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.2c6186d4-f53b-4f89-a464-3c29060ea926: ms-vscode-remote.remote-ssh-edit
+[2021-08-25 15:21:25.374] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.65.7
+[2021-08-25 15:21:25.376] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh-edit
+[2021-08-25 15:21:26.800] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.191.1
+[2021-08-25 15:21:27.128] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.f07f151e-4ea7-4e57-8b52-9b825d940ad8: ms-vscode-remote.remote-containers
+[2021-08-25 15:21:27.145] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.1
+[2021-08-25 15:21:27.146] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2021-08-25 15:21:27.944] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.65.7
+[2021-08-25 15:21:28.036] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.b46bf09b-b5c0-483b-b3c4-3c814a4e606c: ms-vscode-remote.remote-ssh
+[2021-08-25 15:21:28.046] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7
+[2021-08-25 15:21:28.047] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2021-08-25 15:21:31.368] [sharedprocess] [info] Downloaded extension: cschlosser.doxdocgen /home/aditya/.config/Code/CachedExtensionVSIXs/cschlosser.doxdocgen-1.3.2
+[2021-08-25 15:21:31.999] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.eaccca72-f358-47d8-a96f-bb17cedc696b: cschlosser.doxdocgen
+[2021-08-25 15:21:32.014] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/cschlosser.doxdocgen-1.3.2
+[2021-08-25 15:21:32.017] [sharedprocess] [info] Extracting completed. cschlosser.doxdocgen
+[2021-08-25 15:21:35.653] [sharedprocess] [info] Downloaded extension: twxs.cmake /home/aditya/.config/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2021-08-25 15:21:35.764] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.7f52a3b6-c5e8-4eb5-bc7c-cefa69590216: twxs.cmake
+[2021-08-25 15:21:35.776] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/twxs.cmake-0.0.17
+[2021-08-25 15:21:35.778] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2021-08-25 15:21:39.722] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /home/aditya/.config/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.29.2
+[2021-08-25 15:21:40.084] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.b86829f2-5232-4af7-b7c3-83aff01c9314: github.vscode-pull-request-github
+[2021-08-25 15:21:40.099] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/github.vscode-pull-request-github-0.29.2
+[2021-08-25 15:21:40.100] [sharedprocess] [info] Extracting completed. github.vscode-pull-request-github
+[2021-08-25 15:21:42.369] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.4761
+[2021-08-25 15:21:43.026] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.a7906b82-98c3-4f59-9efb-cbc7dd984d3f: ms-vsliveshare.vsliveshare
+[2021-08-25 15:21:43.039] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4761
+[2021-08-25 15:21:43.042] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2021-08-25 15:21:46.663] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/aditya/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.6
+[2021-08-25 15:21:52.291] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.1f5b78bb-c931-4c6a-b97d-a1c00dc1b479: jeff-hykin.better-cpp-syntax
+[2021-08-25 15:21:52.321] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.6
+[2021-08-25 15:21:52.323] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2021-08-25 15:21:55.692] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare-audio /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-audio-0.1.91
+[2021-08-25 15:21:56.825] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.0853987e-459c-4e1f-9340-de76ea5c866f: ms-vsliveshare.vsliveshare-audio
+[2021-08-25 15:21:56.835] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vsliveshare.vsliveshare-audio-0.1.91
+[2021-08-25 15:21:56.837] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare-audio
+[2021-08-25 15:21:58.510] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.0.0
+[2021-08-25 15:21:58.522] [sharedprocess] [info] Extracted extension to /home/aditya/.vscode/extensions/.e3c2e0b6-6a59-42ad-af93-944ef29c018a: ms-vscode.cpptools-extension-pack
+[2021-08-25 15:21:58.528] [sharedprocess] [info] Renamed to /home/aditya/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.0.0
+[2021-08-25 15:21:58.529] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2021-08-25 15:21:58.542] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2021-08-25 15:21:58.543] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2021-08-25 15:21:58.543] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2021-08-25 15:21:58.544] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+[2021-08-25 15:21:58.544] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2021-08-25 15:21:58.544] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2021-08-25 15:21:58.544] [sharedprocess] [info] Extension installed successfully: cschlosser.doxdocgen
+[2021-08-25 15:21:58.545] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2021-08-25 15:21:58.545] [sharedprocess] [info] Extension installed successfully: github.vscode-pull-request-github
+[2021-08-25 15:21:58.545] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2021-08-25 15:21:58.545] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2021-08-25 15:21:58.545] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare-audio
+[2021-08-25 15:21:58.545] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2021-08-25 15:52:29.339] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-ssh-edit
+[2021-08-25 15:52:29.755] [sharedprocess] [info] Detected extension removed from another source ms-vscode-remote.remote-ssh-edit
+[2021-08-25 15:52:30.004] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-ssh-edit
+[2021-08-25 15:52:31.316] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-ssh
+[2021-08-25 15:52:31.730] [sharedprocess] [info] Detected extension removed from another source ms-vscode-remote.remote-ssh
+[2021-08-25 15:52:32.066] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-ssh
+[2021-08-25 15:52:33.202] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-containers
+[2021-08-25 15:52:33.539] [sharedprocess] [info] Detected extension removed from another source ms-vscode-remote.remote-containers
+[2021-08-25 15:52:33.913] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-containers
+[2021-08-25 15:52:35.811] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-wsl
+[2021-08-25 15:52:36.124] [sharedprocess] [info] Detected extension removed from another source ms-vscode-remote.remote-wsl
+[2021-08-25 15:52:36.498] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-wsl
+[2021-08-25 15:52:42.268] [sharedprocess] [info] Uninstalling extension: mtxr.sqltools
+[2021-08-25 15:52:42.303] [sharedprocess] [error] Failed to uninstall extension: mtxr.sqltools Cannot uninstall 'SQLTools' extension. 'SQLTools SQLite' extension depends on this.
+[2021-08-25 15:52:44.212] [sharedprocess] [info] Uninstalling extension: alexcvzz.vscode-sqlite
+[2021-08-25 15:52:44.621] [sharedprocess] [info] Detected extension removed from another source alexcvzz.vscode-sqlite
+[2021-08-25 15:52:44.891] [sharedprocess] [info] Successfully uninstalled extension: alexcvzz.vscode-sqlite
+[2021-08-25 15:52:46.250] [sharedprocess] [info] Uninstalling extension: mtxr.sqltools-driver-sqlite
+[2021-08-25 15:52:46.534] [sharedprocess] [info] Detected extension removed from another source mtxr.sqltools-driver-sqlite
+[2021-08-25 15:52:46.877] [sharedprocess] [info] Successfully uninstalled extension: mtxr.sqltools-driver-sqlite
+[2021-08-25 15:52:52.418] [sharedprocess] [info] Uninstalling extension: ms-vscode.cpptools-themes
+[2021-08-25 15:52:52.692] [sharedprocess] [info] Detected extension removed from another source ms-vscode.cpptools-themes
+[2021-08-25 15:52:53.033] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.cpptools-themes
+[2021-08-25 15:52:54.142] [sharedprocess] [info] Uninstalling extension: ms-vscode.cpptools-extension-pack
+[2021-08-25 15:52:54.233] [sharedprocess] [info] Uninstalling extension: cschlosser.doxdocgen
+[2021-08-25 15:52:54.233] [sharedprocess] [info] Uninstalling extension: github.vscode-pull-request-github
+[2021-08-25 15:52:54.233] [sharedprocess] [info] Uninstalling extension: jeff-hykin.better-cpp-syntax
+[2021-08-25 15:52:54.234] [sharedprocess] [info] Uninstalling extension: ms-vscode.cmake-tools
+[2021-08-25 15:52:54.234] [sharedprocess] [info] Uninstalling extension: ms-vscode.cpptools
+[2021-08-25 15:52:54.234] [sharedprocess] [info] Uninstalling extension: ms-vsliveshare.vsliveshare
+[2021-08-25 15:52:54.235] [sharedprocess] [info] Uninstalling extension: ms-vsliveshare.vsliveshare-audio
+[2021-08-25 15:52:54.235] [sharedprocess] [info] Uninstalling extension: twxs.cmake
+[2021-08-25 15:52:54.235] [sharedprocess] [info] Extensions is already requested to uninstall twxs.cmake
+[2021-08-25 15:52:54.889] [sharedprocess] [info] Detected extension removed from another source cschlosser.doxdocgen
+[2021-08-25 15:52:54.891] [sharedprocess] [info] Detected extension removed from another source github.vscode-pull-request-github
+[2021-08-25 15:52:54.894] [sharedprocess] [info] Detected extension removed from another source jeff-hykin.better-cpp-syntax
+[2021-08-25 15:52:54.895] [sharedprocess] [info] Detected extension removed from another source ms-vscode.cmake-tools
+[2021-08-25 15:52:54.896] [sharedprocess] [info] Detected extension removed from another source ms-vscode.cpptools
+[2021-08-25 15:52:54.896] [sharedprocess] [info] Detected extension removed from another source ms-vscode.cpptools-extension-pack
+[2021-08-25 15:52:54.896] [sharedprocess] [info] Detected extension removed from another source ms-vsliveshare.vsliveshare
+[2021-08-25 15:52:54.897] [sharedprocess] [info] Detected extension removed from another source ms-vsliveshare.vsliveshare-audio
+[2021-08-25 15:52:54.898] [sharedprocess] [info] Detected extension removed from another source twxs.cmake
+[2021-08-25 15:52:55.067] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.cpptools-extension-pack
+[2021-08-25 15:52:55.082] [sharedprocess] [info] Successfully uninstalled extension: cschlosser.doxdocgen
+[2021-08-25 15:52:55.098] [sharedprocess] [info] Successfully uninstalled extension: github.vscode-pull-request-github
+[2021-08-25 15:52:55.114] [sharedprocess] [info] Successfully uninstalled extension: jeff-hykin.better-cpp-syntax
+[2021-08-25 15:52:55.187] [sharedprocess] [info] Successfully uninstalled extension: twxs.cmake
+[2021-08-25 15:52:55.226] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.cmake-tools
+[2021-08-25 15:52:55.230] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.cpptools
+[2021-08-25 15:52:55.231] [sharedprocess] [info] Successfully uninstalled extension: ms-vsliveshare.vsliveshare-audio
+[2021-08-25 15:52:55.262] [sharedprocess] [info] Successfully uninstalled extension: ms-vsliveshare.vsliveshare
+[2021-08-25 15:53:08.781] [sharedprocess] [info] Uninstalling extension: ms-toolsai.jupyter
+[2021-08-25 15:53:09.135] [sharedprocess] [info] Detected extension removed from another source ms-toolsai.jupyter
+[2021-08-25 15:53:09.482] [sharedprocess] [info] Successfully uninstalled extension: ms-toolsai.jupyter
+[2021-08-25 15:53:21.162] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-08-25 15:53:21.353] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/aditya/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.6.0
+[2021-08-25 15:53:21.423] [sharedprocess] [info] Removed the extension from uninstalled list: ms-vscode.cpptools
+[2021-08-25 15:53:21.441] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2021-08-25 15:53:36.068] [sharedprocess] [info] Uninstalling extension: mtxr.sqltools
+[2021-08-25 15:53:36.351] [sharedprocess] [info] Detected extension removed from another source mtxr.sqltools
+[2021-08-25 15:53:36.681] [sharedprocess] [info] Successfully uninstalled extension: mtxr.sqltools
+[2021-08-25 15:53:47.957] [sharedprocess] [info] Installing extension: alexcvzz.vscode-sqlite
+[2021-08-25 15:53:48.121] [sharedprocess] [info] Downloaded extension: alexcvzz.vscode-sqlite /home/aditya/.config/Code/CachedExtensionVSIXs/alexcvzz.vscode-sqlite-0.13.0
+[2021-08-25 15:53:48.167] [sharedprocess] [info] Removed the extension from uninstalled list: alexcvzz.vscode-sqlite
+[2021-08-25 15:53:48.175] [sharedprocess] [info] Extension installed successfully: alexcvzz.vscode-sqlite

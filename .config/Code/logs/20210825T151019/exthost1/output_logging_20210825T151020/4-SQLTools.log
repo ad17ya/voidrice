@@ -1,0 +1,66 @@
+[1629884420966] INFO  (ext): SQLTools is starting
+[1629884420967] INFO  (ext): initializing language client...
+[1629884420968] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1629884420969] INFO  (ext): loading plugins...
+[1629884420969] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1629884420970] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1629884420970] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1629884420970] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1629884420971] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1629884420972] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1629884420972] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1629884420972] INFO  (ext): SQLTools activation completed. 6.226367 ms
+[1629884420973] INFO  (ext): Formatter Plugin registered!
+[1629884420973] INFO  (ext): CodeLens Plugin registered!
+[1629884420973] INFO  (ext): Dependency Manager Plugin registered!
+[1629884420974] INFO  (ext): Connection Manager Plugin registered!
+[1629884420974] INFO  (ext): History Manager Plugin registered!
+[1629884420974] INFO  (ext): Bookmarks Manager Plugin registered!
+[1629884421262] INFO  (ext): registering SQLite Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-sqlite",
+      "name": "SQLite Plugin",
+      "type": "driver"
+    }
+[1629884421150] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: no
+ExecPath: /opt/visual-studio-code/code 
+===============================
+[1629884421155] INFO  (ls): Telemetry enabled!
+    ns: "telemetry"
+[1629884421264] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1629884421266] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1629884421266] INFO  (ls): request to register plugin: "/home/aditya/.vscode/extensions/mtxr.sqltools-driver-sqlite-0.2.0/out/ls/plugin.js"
+[1629884421297] INFO  (ls): Driver sqlite registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1629884421317] INFO  (ext): SQLite Plugin (driver) registered!
+[1629884422318] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1629884422318] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1629884422972] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

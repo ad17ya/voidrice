@@ -1,4 +1,43 @@
-https://lukesmith.xyz/rss.xml
-https://notrelated.libsyn.com/rss
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
-https://www.archlinux.org/feeds/news/ "tech"
+" "
+"---NEWS---"
+https://archlinux.org/feeds/news/
+
+" "
+"---BLOGS---"
+https://lukesmith.xyz/rss.xml "~Luke Smith Blog"
+https://geohot.github.io/blog/feed.xml  "~George Hotz "
+https://popey.com/blog/index.xml
+https://www.bruceeckel.com/index.xml
+https://feeds.feedburner.com/typepad/KathySierra/creating_passionate_users
+https://stallman.org/rss/rss.xml
+https://www.strongfirst.com/category/blog/feed/
+https://feeds.feedburner.com/mrmoneymustache
+
+" "
+"---VIDEOS---"
+
+https://lukesmith.xyz/videos "~Luke Smith (Peertube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (Youtube)"
+https://odysee.com/$/rss/@Luke/70
+https://notrelated.xyz/rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCngn7SVujlvskHRvRKc1cTw "~BugsWriter"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnzbVkknmqhRqUKg7RDTDeg "~Chris Smoove"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENHE5xdFSwx71u3fDH5Xw "~ThePrimegean"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~DistroTube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "~Brodie Robertson"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkSSr9X-JFXOHwV_dNJkGcA "~AFunkyDiabetic"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "~WolfGang's Channel"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEDkO7wshcDZ7UZo17rPkzQ "~Mayuko"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1fLEeYICmo3O9cUsqIi7HA "~Nick White"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsT0YIqwnpJCM-mx7-gSA4Q "~TEDx Talks"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZAENaOaceQUMd84GDc26EA "~Survive the Jive"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3TUCGI-7rSjvHsE4ONXRww "~Millena Thinker"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVO8YsD87ibqRGIJ7o8sOzg "~Prince of Zimbabwe"
+
+" "
+"---TWEETS---"
+https://nitter.domain.glass/BillSimmons/rss
+https://nitter.domain.glass/ryenarussillo/rss
+https://nitter.domain.glass/FunkyDiabetic1/rss
+https://nitter.domain.glass/wojespn/rss
