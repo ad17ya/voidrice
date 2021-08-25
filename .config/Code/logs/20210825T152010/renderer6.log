@@ -1,4 +1,0 @@
-[2021-08-25 16:42:29.954] [renderer6] [error] spawn xterm-256color ENOENT: Error: spawn xterm-256color ENOENT
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
-    at onErrorNT (internal/child_process.js:465:16)
-    at processTicksAndRejections (internal/process/task_queues.js:80:21)

@@ -1,6 +1,0 @@
-[3:55:30 PM][vscode-sqlite][INFO] Activating extension vscode-sqlite v0.13.0...
-[3:55:30 PM][vscode-sqlite][INFO] Extension activated.
-[4:03:05 PM][vscode-sqlite][ERROR] near "[(ID, NAME, SURNAME, AGE, ADDRESS, SALARY)]": syntax error
-[4:04:18 PM][vscode-sqlite][ERROR] UNIQUE constraint failed: PERSON.ID
-[4:15:28 PM][vscode-sqlite][ERROR] no such column: COUNT
-[4:16:16 PM][vscode-sqlite][ERROR] no such column: ID
