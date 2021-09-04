@@ -1,4 +1,4 @@
-let mapleader =" "
+let mapleader =","
 
 "autoinstall plugins if config files are copied
 if ! filereadable(system('echo -n "${XDG_CONFIG_HOME:-$HOME/.config}/nvim/autoload/plug.vim"'))
@@ -37,6 +37,7 @@ endif
 	autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
     source ~/.config/nvim/plugconfig/goyo.vim
+
 
 " Spell-check set to <leader>o, 'o' for 'orthography':
 	map <leader>o :setlocal spell! spelllang=en_us<CR>

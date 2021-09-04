@@ -11,7 +11,6 @@ HISTSIZE= HISTFILESIZE=  #Infinite history
 set -o vi # vi mode in bash
 source /home/aditya/.config/aliasrc #custom aliases
 
-
 export TERM="xterm-256color"      # getting proper colors
 
 #bash prompt
@@ -74,3 +73,5 @@ ex ()
     echo "'$1' is not a valid file"
   fi
 }
+
+pfetch

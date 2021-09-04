@@ -4,6 +4,7 @@
 call plug#begin(system('echo -n "${XDG_CONFIG_HOME:-$HOME/.config}/nvim/plugged"'))
 
 Plug 'morhetz/gruvbox'
+Plug 'neoclide/coc.nvim'
 Plug 'preservim/nerdtree'
 Plug 'lukesmithxyz/vimling'
 Plug 'junegunn/fzf.vim'
@@ -13,8 +14,8 @@ Plug 'vimwiki/vimwiki'
 Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
 Plug 'ap/vim-css-color'
-Plug 'neoclide/coc.nvim'
 Plug 'tpope/vim-surround'
+Plug 'arcticicestudio/nord-vim'
 
 call plug#end()
 

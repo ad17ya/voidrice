@@ -4,9 +4,7 @@
 # displays and lets user select one to use. User may also select "manual
 # selection" which opens arandr.
 
-xrandr --output "HDMI2" --auto --scale 1.0x1.0 --output "eDP1" --"left"-of "HDMI2" --auto --scale 1.0x1.0
+xrandr --output "HDMI2" --auto --scale 1.0x1.0 --output "eDP1" --"right"-of "HDMI2" --auto --scale 1.0x1.0
 setbg		# Fix background if screen size/arangement has changed.
 remaps		# Re-remap keys if keyboard added (for laptop bases)
-#killall dunst ; setsid -f dunst ; >/dev/null 2>&1 # Restart dunst to ensure proper location on screen
-	
-
+killall dunst ; setsid -f dunst ; >/dev/null 2>&1 # Restart dunst to ensure proper location on screen

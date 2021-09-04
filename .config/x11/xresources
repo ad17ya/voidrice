@@ -1,5 +1,5 @@
 /* !! Transparency (0-1): */
-*.alpha: 0.6
+*.alpha: 0.9
 
 !! Set a default font and font size as below:
 *.font:Fira Mono:size=11

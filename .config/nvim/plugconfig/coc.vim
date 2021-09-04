@@ -4,13 +4,12 @@ let g:coc_global_extensions = [
 	\ 'coc-snippets',
 	\ 'coc-pairs',
 	\ 'coc-prettier',
-	\ 'coc-tsserver',
 	\ 'coc-html',
 	\ 'coc-css',
 	\ 'coc-json',
 	\ 'coc-angular',
 	\ 'coc-explorer',
-	\ 'coc-vimtex'
+	\ 'coc-vimtex' ,
 	\ ]
 
 noremap <silent> <A-f> :CocCommand explorer<CR>

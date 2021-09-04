@@ -12,7 +12,7 @@ alias \
 	rm="rm -vI" \
 	mkd="mkdir -pv" \
 	yt="youtube-dl --add-metadata -i" \
-	yta="yt -x -f bestaudio/best" \
+	yta="yt -x -f bestaudio/best --audio-format mp3" \
 	ytv="youtube-dl -i -f best"\
 	ffmpeg="ffmpeg -hide_banner"
 
@@ -29,7 +29,7 @@ alias \
 	ccat="highlight --out-format=ansi"
 
 #My fzf searches
-ce() { du -a ~/.config/* ~/.local/bin ~/.local/src | awk '{print $2}' | fzf | xargs -r $EDITOR ;}
+ce() { du -a ~/.config/* ~/.local/bin/ ~/.local/src/ | awk '{print $2}' | fzf | xargs -r $EDITOR ;}
 
 # These common commands are just too long! Abbreviate them.
 alias \
@@ -46,4 +46,8 @@ alias \
 	vi="nvim" \
 	nf="neofetch" \
 	smci="sudo make clean install"  \
-    config="/usr/bin/git  --git-dir=$HOME/.voidrice/ --work-tree=$HOME"
+    config="/usr/bin/git  --git-dir=$HOME/.local/share/dotfiles --work-tree=$HOME"
+
+#Clean up
+alias \
+    yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config"'
