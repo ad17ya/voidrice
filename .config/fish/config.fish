@@ -1,9 +1,6 @@
 source /usr/share/cachyos-fish-config/cachyos-config.fish
 
-alias vim nvim
-alias vi nvim
-alias v nvim
-alias e nvim
+set -g fish_greeting ""
 
 # overwrite greeting
 # potentially disabling fastfetch
