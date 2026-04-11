@@ -22,6 +22,6 @@ export FZF_DEFAULT_OPTS="--layout=reverse --height 40%"
 [[ -f ~/.bashrc ]] && source ~/.bashrc
 
 # ─── AUTO START X (optional, keep if you use startx) ───────────
-if [ -z "$DISPLAY" ] && [ "$XDG_VTNR" -eq 1 ]; then
-  exec startx "$XDG_CONFIG_HOME/x11/xinitrc"
-fi
+# if [ -z "$DISPLAY" ] && [ "$XDG_VTNR" -eq 1 ]; then
+#   exec startx "$XDG_CONFIG_HOME/x11/xinitrc"
+# fi
