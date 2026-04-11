@@ -1,1 +1,0 @@
-mpv "$(find /home/aditya/vids/* -type f | dmenu -i -l 20)"
